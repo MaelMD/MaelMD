@@ -10,7 +10,8 @@ I am cuurently studying software engineeringat the national school of applied sc
 *   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/mohamed-malainine-mohammed-chakour-169a55220/)
 *   ✉️  You can contact me at [mohammed.malainine5@gmail.com](mailto:mohammed.malainine5@gmail.com)
 *   🧠  I'm learning New Frameworks
-### Skills<p align="left">
+### Skills
+<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
