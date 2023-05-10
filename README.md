@@ -11,7 +11,6 @@ I am cuurently studying software engineering at the national school of applied s
 *   ✉️  You can contact me at [mohammed.malainine5@gmail.com](mailto:mohammed.malainine5@gmail.com)
 *   🧠  I'm learning New Frameworks
 
-<br><br><br>(https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
 
 ### Skills
