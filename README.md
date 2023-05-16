@@ -1,7 +1,8 @@
 Hi 👋 My name is MD
 ===================
 
-Software Engineer - Loading....
+Software Engineer / Loading..
+
 -----------------
 *   🌍  I'm based in Morocco
 *   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/mohamed-malainine-mohammed-chakour-169a55220/)
