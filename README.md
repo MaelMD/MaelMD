@@ -1,11 +1,8 @@
 Hi 👋 My name is MD
 ===================
 
-Software Engineer
+Software Engineer - Loading....
 -----------------
-
-I am cuurently studying software engineering at the national school of applied sciences
-
 *   🌍  I'm based in Morocco
 *   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/mohamed-malainine-mohammed-chakour-169a55220/)
 *   ✉️  You can contact me at [mohammed.malainine5@gmail.com](mailto:mohammed.malainine5@gmail.com)
