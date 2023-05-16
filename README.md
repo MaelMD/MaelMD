@@ -1,7 +1,7 @@
 Hi 👋 My name is MD
 ===================
 
-Software Engineer / Loading..
+Software Engineer
 
 -----------------
 *   🌍  I'm based in Morocco
