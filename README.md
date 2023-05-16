@@ -34,7 +34,7 @@ I am cuurently studying software engineering at the national school of applied s
                     </p>
                     -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,angular,codepen,nodejs,spring,firebase,mysql,git,github,docker)](https://skillicons.dev)
 
 ### Socials
                   
