@@ -5,7 +5,7 @@ Hi 👋 My name is MD
 
 -----------------
 *   🌍  I'm based in Morocco
-*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/mohamed-malainine-mohammed-chakour-169a55220/)
+*   🖥️  See my portfolio at [Still working on it hh]
 *   ✉️  You can contact me at [mohammed.malainine5@gmail.com](mailto:mohammed.malainine5@gmail.com)
 *   🧠  I'm learning New Frameworks
 <!--
