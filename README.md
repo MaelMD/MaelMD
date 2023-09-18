@@ -6,7 +6,7 @@ Hi 👋 My name is MD
 
 *   🌍  I'm based in Morocco
 *   🖥️  See my portfolio at [Still working on it hh](https://github.com/MaelMD/MaelMD/)
-*   ✉️  You can contact me at [mohammed.malainine5@gmail.com](mailto:mohammed.malainine5@gmail.com)
+*   ✉️  You can contact me at 
 *   🧠  I'm learning New Frameworks
 <!--
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
