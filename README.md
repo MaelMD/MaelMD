@@ -32,7 +32,7 @@ Hi 👋 My name is MD
                     </p>
                     -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,angular,codepen,nodejs,spring,firebase,mysql,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,angular,codepen,nodejs,spring,firebase,vuejs,postgesql,mysql,git,github,docker)](https://skillicons.dev)
 
 ### Socials
 
