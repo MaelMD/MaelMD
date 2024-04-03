@@ -21,7 +21,7 @@ Hi 👋 My name is MD
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,htmx,css,bootstrap,js,ts,express,graphql,apollo,postman,npm,pnpm,vite,react,materialui,angular,vuejs,tailwind,codepen,spring,nodejs,nestjs,prisma,mysql,postgres,firebase,mongodb,git,github,githubactions,docker)](https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=html,htmx,css,bootstrap,js,ts,express,graphql,apollo,postman,npm,pnpm,vite,react,materialui,angular,vuejs,tailwind,codepen,figma,java,spring,nodejs,nestjs,prisma,mysql,postgres,firebase,mongodb,c,cpp,git,github,githubactions,docker,bash,linux)](https://skillicons.dev" />
   </a>
 </p>
 
