@@ -7,6 +7,9 @@ Hi 👋 My name is MD
 *   🧠  I'm learning New Frameworks
 <!--
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
+
+[![My Skills](https://skillicons.dev/icons?i=html,htmx,css,bootstrap,js,ts,express,graphql,apollo,postman,npm,pnpm,vite,react,materialui,angular,vuejs,tailwind,figma,codepen,spring,nodejs,nestjs,prisma,mysql,postgres,firebase,mongodb,git,github,githubactions,docker)](https://skillicons.dev)
+
 -->
 
 </br></br>![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
@@ -14,7 +17,14 @@ Hi 👋 My name is MD
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,vite,react,angular,vuejs,tailwind,figma,codepen,spring,nodejs,nestjs,prisma,mysql,postgres,firebase,mongodb,git,github,githubactions,docker)](https://skillicons.dev)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,htmx,css,bootstrap,js,ts,express,graphql,apollo,postman,npm,pnpm,vite,react,materialui,angular,vuejs,tailwind,codepen,spring,nodejs,nestjs,prisma,mysql,postgres,firebase,mongodb,git,github,githubactions,docker)](https://skillicons.dev" />
+  </a>
+</p>
+
 
 ### Socials
 
