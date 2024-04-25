@@ -1,3 +1,4 @@
+<!--
 Hi 👋 My name is MD
 ===============
 
@@ -5,7 +6,6 @@ Hi 👋 My name is MD
 *   🖥️  See my portfolio at [Still working on it hh](https://github.com/MaelMD/MaelMD/)
 *   ✉️  You can contact me at [Linkedin](https://ma.linkedin.com/in/mohamed-malainine-mohammed-chakour-169a55220)
 *   🧠  I'm learning New Frameworks
-<!--
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
 
 [![My Skills](https://skillicons.dev/icons?i=html,htmx,css,bootstrap,js,ts,express,graphql,apollo,postman,npm,pnpm,vite,react,materialui,angular,vuejs,tailwind,figma,codepen,spring,nodejs,nestjs,prisma,mysql,postgres,firebase,mongodb,git,github,githubactions,docker)](https://skillicons.dev)
