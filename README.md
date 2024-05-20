@@ -11,12 +11,12 @@
   </a>
 </p>
 
-
+<!--   
 ## Socials
 
 <p align="left"> <a href="https://discord.com/users/MD#7256" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<!--   <a href="https://www.linkedin.com/in/mohamed-malainine-mohammed-chakour-169a55220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"   /></a> -->
+<a href="https://www.linkedin.com/in/mohamed-malainine-mohammed-chakour-169a55220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"   /></a>
 </p>
-
+ -->
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
